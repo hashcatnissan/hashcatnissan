@@ -77,7 +77,7 @@ I am a recent Computer Graduate in C.S.E at [North South University](https://fed
 [<img src="https://img.shields.io/badge/instagram-%2312100E.svg?&style=for-the-badge&logo=instagram&logoColor=white&color=black" />](https://www.instagram.com/hashcat_nissan/)
 </p>
 
-| <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=durgeshsamariya&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Durgesh's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=durgeshsamariya&layout=compact&theme=buefy&hide_border=true" /></a> |
+| <a href="https://github.com/ahashcatnissan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=hashcatnissan&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Nishan's github stats" /></a> | <a href="https://github.com/hashcatnissan/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hashcatnissan&layout=compact&theme=buefy&hide_border=true" /></a> |
 | ------------- | ------------- |
 
 <!-- 
