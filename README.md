@@ -5,9 +5,9 @@ I am a recent Computer Graduate in C.S.E at [North South University](https://fed
 **My Reseach Interest**:
 - Machine Learning (ML)
 - Deep Learning (DL)
-- Natural Language Processing
-- Computer Vision
-- Artificial Intelligence
+- Natural Language Processing (NLP)
+- Computer Vision (CV)
+- Artificial Intelligence (AI)
 - Blockchain
 
  **I am open to**:
