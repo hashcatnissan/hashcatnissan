@@ -1,6 +1,6 @@
 ### Hi there, I'm [S M Gazzali Arafat Nishan](https://hashcatnissan.github.io) 👋
 
-I am a recent Computer Graduate in C.S.E year Machine Learning Ph.D. candidate at [North South University](https://federation.edu.au), Dhaka, Bangladesh. Apart from that I am full time ML developer that loves writing articles (on Machine Learning, Data Science, Productivity) and contributing to open source.
+I am a recent Computer Graduate in C.S.E at [North South University](https://federation.edu.au), Dhaka, Bangladesh. Apart from that I am full time ML developer that loves writing articles (on Machine Learning, Data Science, Productivity) and contributing to open source.
 
 **My Reseach Interest**:
 - Machine Learning (ML)
