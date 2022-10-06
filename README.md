@@ -92,10 +92,10 @@ I am a recent Computer Graduate in C.S.E at [North South University](http://www.
 <img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
 <br />
 
-![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
-
+<center>
+  ![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
+</center>
 </div>
-
 
 <!---
 hashcatnissan/hashcatnissan is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
