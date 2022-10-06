@@ -88,18 +88,21 @@ I am a recent Computer Graduate in C.S.E at [North South University](http://www.
  -->
 
 
+<div>
+<img height="120" alt="Thanks for visiting me" width="100%" src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/marquee.svg" />
+<br />
 
-Here are some ideas to get you started:
+![Visitor Count](https://profile-counter.glitch.me/brunnerlivio/count.svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/notepad.gif" alt="Site created with Notepad" height="30" />
+<!-- "margin-right: whatever;" -->
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/ie_logo.gif" alt="Microsoft Internet Explorer" />
+<span>&nbsp;&nbsp;&nbsp;&nbsp;</span>  
+<img src="https://raw.githubusercontent.com/BrunnerLivio/brunnerlivio/master/images/noframes.gif" alt="Microsoft Internet Explorer" />
+
+</div>
 
 
 <!---
