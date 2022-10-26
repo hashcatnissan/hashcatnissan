@@ -21,8 +21,7 @@ I am a recent Computer Graduate in C.S.E at [North South University](http://www.
 - **November 2022**: Our paper "Smart and Robust Blockchain Application in a Secure Online Telemedicine" is pending approval for publication at the Journal on Computational Intelligence and Neuroscience(Wiley|Hindawi 2022).
 
 
-**Service to research comunity**:
--Part Time Research Assistant, NSU [2022].
+**Service to research comunity**
 
 ## Skills:
 
